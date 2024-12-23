@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50874ba3.css",
+    "main.js": "/static/js/main.f057b345.js",
+    "static/js/453.a620fd44.chunk.js": "/static/js/453.a620fd44.chunk.js",
+    "static/media/banner.png": "/static/media/banner.ce5b75a154a3dcf56bd9.png",
+    "static/media/Almarai-Bold.ttf": "/static/media/Almarai-Bold.6950c5a6d2dcd9e29b5d.ttf",
+    "static/media/Dubai-Bold.ttf": "/static/media/Dubai-Bold.cc02fe88ac5b4b37d9f0.ttf",
+    "static/media/user.png": "/static/media/user.ab1ee380bf121dd1fcf7.png",
+    "static/media/logo1.png": "/static/media/logo1.91f6ff9b46d6c7dcbb51.png",
+    "static/media/shopping-bag.png": "/static/media/shopping-bag.16b64429aa36962f41c2.png",
+    "static/media/link-icon.png": "/static/media/link-icon.d59ba67b6ad69f1e8b17.png",
+    "static/media/knet.svg": "/static/media/knet.4710aa6972aba4a424feea1930fcd050.svg",
+    "static/media/MasterHN-white.svg": "/static/media/MasterHN-white.494f6952d7e63d125cae0ddea55214c8.svg",
+    "static/media/snapchat.svg": "/static/media/snapchat.9acb33a7a0803e7396c57a8393a54a2b.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.354fc67795da1871231633329d46f18b.svg",
+    "static/media/mastercard.svg": "/static/media/mastercard.3e4f44feb415e7b85e94573d3d08501c.svg",
+    "static/media/visa.svg": "/static/media/visa.4718e29cb3815a3f383a23849ac15914.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.16e6e5df2ad5ff99167bea337c803a08.svg",
+    "static/media/tiktok.svg": "/static/media/tiktok.9d61e36f594440f5789d5eb2c3459691.svg",
+    "static/media/youtube.svg": "/static/media/youtube.e4bd655283ce6bc61b8cf56384e2f81e.svg",
+    "static/media/translate.svg": "/static/media/translate.3634781e652210471dd7545edea23b7f.svg",
+    "static/media/facebook.svg": "/static/media/facebook.7c161cfb47214c9f1533fc169a5f5531.svg",
+    "static/media/trash.svg": "/static/media/trash.766ae8d255dbbc2dacb8d4f58072e6d5.svg",
+    "static/media/cartIllustartion.svg": "/static/media/cartIllustartion.81dcd38f402be56831351b8186e9e38a.svg",
+    "static/media/x.svg": "/static/media/x.1a64d5fa18533b49e75242e9f11dc8c1.svg",
+    "static/media/user1.svg": "/static/media/user1.c6b37b8309904f86a670198e1ee6609e.svg",
+    "static/media/phone.svg": "/static/media/phone.76e3951582187630e9902ccfb161ec23.svg",
+    "main.50874ba3.css.map": "/static/css/main.50874ba3.css.map",
+    "main.f057b345.js.map": "/static/js/main.f057b345.js.map",
+    "453.a620fd44.chunk.js.map": "/static/js/453.a620fd44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50874ba3.css",
+    "static/js/main.f057b345.js"
+  ]
+}
